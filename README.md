@@ -38,7 +38,7 @@ matplotlib==3.3.3 <br>
 mccabe==0.6.1 <br>
 missingno==0.4.2 <br>
 numpy==1.19.4 <br>
-pandas==1.2.0 <br>
+pandas==1.0.0 <br>
 patsy==0.5.1 <br>
 Pillow==8.1.0 <br>
 plotly==4.14.1 <br>
@@ -48,14 +48,14 @@ python-dateutil==2.8.1 <br>
 pytz==2020.5 <br>
 retrying==1.3.3 <br>
 scikit-learn==0.24.0 <br>
-scipy==1.6.0 <br>
+scipy==1.5.4 <br>
 seaborn==0.11.1 <br>
 six==1.15.0 <br>
 statsmodels==0.12.1 <br>
 threadpoolctl==2.1.0 <br>
 toml==0.10.2 <br>
 Werkzeug==1.0.1 <br>
-wrapt==1.12.1 <br>
+wrapt==1.12.1
 
 ## How to install this program for your device
 
