@@ -5,3 +5,11 @@ Welcome to the World Happiness Report Dashboard. The The World Happiness Report 
 This online dashboard takes away the industrious process of users analysing surveys to create statistics and assists the user in analysing the surveys with computer code and display graphs. Think of it as your own virtual assistant for analysing datasets and producing statistics.
 
 Also, I am not a data scientist so if my works like that of an amauter I apologise. I am a software developer with an interest in data science.
+
+## Required Libraries
+
+
+## How to install this program for your device
+
+
+## Walkthrough
