@@ -11,7 +11,7 @@ Also, I am not a data scientist so if my works like that of an amauter I apologi
 ## Link (if working)
 
 ## Required Libraries
-astroid==2.4.2
+astroid==2.4.2 <br\>
 Brotli==1.0.9
 click==7.1.2
 colorama==0.4.4
