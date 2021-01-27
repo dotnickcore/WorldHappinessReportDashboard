@@ -78,8 +78,10 @@ df_all=df_all[['Country', 'Happiness Rank',
 'Freedom','Trust (Government Corruption)',
 'Generosity', 'Year']]
 
+# for the dropbox
 years = [2015, 2016, 2017, 2018, 2019, 2020]
 
+# layout for the page
 layout = html.Div([
     dcc.Dropdown(
         id="dropdown",

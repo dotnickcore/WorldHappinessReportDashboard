@@ -78,8 +78,10 @@ df_all=df_all[['Country', 'Happiness Rank',
 'Freedom','Trust (Government Corruption)',
 'Generosity', 'Year']]
 
+# for the dropbox
 years = [2015, 2016, 2017, 2018, 2019, 2020]
 
+# layout for this page
 layout = html.Div([
     dcc.Dropdown(
         id="dropdown",
@@ -90,10 +92,12 @@ layout = html.Div([
     dcc.Graph(id="most-happiest-chart")
 ])
 
+# returns the chart
 @app.callback(
     Output("most-happiest-chart", "figure"), 
     [Input("dropdown", "value")])
 
+# updates the chart
 def update_bar_chart(year):
     if year == 2015:
         df_top20 = df_2015[:10].sort_values('Happiness Score', ascending = True)

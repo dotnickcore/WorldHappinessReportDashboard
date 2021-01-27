@@ -82,8 +82,10 @@ df_all=df_all[['Country', 'Happiness Rank',
 'Freedom','Trust (Government Corruption)',
 'Generosity', 'Year']]
 
+# for the dropbox
 years = [2015, 2016, 2017, 2018, 2019, 2020]
 
+# layout for the page
 layout = html.Div([
     html.Div([
         dbc.Container([
@@ -96,7 +98,7 @@ layout = html.Div([
         dcc.Graph(id="correlation-map"),]),
         dbc.Container([
             dbc.Row([
-                dbc.Col(html.Li(children="World Happiness Report Dashboard"), className="mb-2")
+                dbc.Col(html.Li(children="This correlation heatmap is an extension of the scatter graph and uses numbers to explain the correlation between happiness and the key variables."), className="mb-2")
             ])
         ])
     ]),

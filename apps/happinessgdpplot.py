@@ -83,8 +83,10 @@ df_all=df_all[['Country', 'Happiness Rank',
 'Freedom','Trust (Government Corruption)',
 'Generosity', 'Year']]
 
+# for the dropbox
 years = [2015, 2016, 2017, 2018, 2019, 2020]
 
+# layout for the page
 layout = html.Div([
     html.Div([
         dbc.Container([
@@ -98,7 +100,7 @@ layout = html.Div([
         ]),
         dbc.Container([
             dbc.Row([
-                dbc.Col(html.Li(children="World Happiness Report Dashboard"), className="mb-2")
+                dbc.Col(html.Li(children="This scatter plot was able to find that happier countries have a higher GDP than most other countries. Less happier countries tended to have a low GDP. So, money can certainly buy happiness."), className="mb-2")
             ])
         ])
     ]),
