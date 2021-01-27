@@ -16,8 +16,5 @@ Also, I am not a data scientist so if my works like that of an amauter I apologi
 ## How to install this program for your device
 
 
-## Walkthrough
-
-
 ## Where to find me?
 My discord is NikolasSoftver#8941
