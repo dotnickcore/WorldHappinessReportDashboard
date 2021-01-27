@@ -12,49 +12,49 @@ Also, I am not a data scientist so if my works like that of an amauter I apologi
 
 ## Required Libraries
 astroid==2.4.2 <br>
-Brotli==1.0.9
-click==7.1.2
-colorama==0.4.4
-cycler==0.10.0
-dash==1.18.1
-dash-bootstrap-components==0.11.1
-dash-core-components==1.14.1
-dash-html-components==1.1.1
-dash-renderer==1.8.3
-dash-table==4.11.1
-Flask==1.1.2
-Flask-Compress==1.8.0
-future==0.18.2
-gunicorn==20.0.4
-isort==5.7.0
-itsdangerous==1.1.0
-Jinja2==2.11.2
-joblib==1.0.0
-kiwisolver==1.3.1
-lazy-object-proxy==1.4.3
-MarkupSafe==1.1.1
-matplotlib==3.3.3
-mccabe==0.6.1
-missingno==0.4.2
-numpy==1.19.4
-pandas==1.2.0
-patsy==0.5.1
-Pillow==8.1.0
-plotly==4.14.1
-pylint==2.6.0
-pyparsing==2.4.7
-python-dateutil==2.8.1
-pytz==2020.5
-retrying==1.3.3
-scikit-learn==0.24.0
-scipy==1.6.0
-seaborn==0.11.1
-six==1.15.0
-statsmodels==0.12.1
-threadpoolctl==2.1.0
-toml==0.10.2
-Werkzeug==1.0.1
-wrapt==1.12.1
+Brotli==1.0.9 <br>
+click==7.1.2 <br>
+colorama==0.4.4 <br>
+cycler==0.10.0 <br>
+dash==1.18.1 <br>
+dash-bootstrap-components==0.11.1 <br>
+dash-core-components==1.14.1 <br>
+dash-html-components==1.1.1 <br>
+dash-renderer==1.8.3 <br>
+dash-table==4.11.1 <br>
+Flask==1.1.2 <br>
+Flask-Compress==1.8.0 <br>
+future==0.18.2 <br>
+gunicorn==20.0.4 <br>
+isort==5.7.0 <br>
+itsdangerous==1.1.0 <br>
+Jinja2==2.11.2 <br>
+joblib==1.0.0 <br>
+kiwisolver==1.3.1 <br>
+lazy-object-proxy==1.4.3 <br>
+MarkupSafe==1.1.1 <br>
+matplotlib==3.3.3 <br>
+mccabe==0.6.1 <br>
+missingno==0.4.2 <br>
+numpy==1.19.4 <br>
+pandas==1.2.0 <br>
+patsy==0.5.1 <br>
+Pillow==8.1.0 <br>
+plotly==4.14.1 <br>
+pylint==2.6.0 <br>
+pyparsing==2.4.7 <br>
+python-dateutil==2.8.1 <br>
+pytz==2020.5 <br>
+retrying==1.3.3 <br>
+scikit-learn==0.24.0 <br>
+scipy==1.6.0 <br>
+seaborn==0.11.1 <br>
+six==1.15.0 <br>
+statsmodels==0.12.1 <br>
+threadpoolctl==2.1.0 <br>
+toml==0.10.2 <br>
+Werkzeug==1.0.1 <br>
+wrapt==1.12.1 <br>
 
 ## How to install this program for your device
 
