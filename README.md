@@ -1,4 +1,4 @@
-![alt text](https://github.com/nickbrowningdev/WorldHappinessReportDashboard/blob/main/screenshots/screenshot1.PNG?raw=true)
+![alt text](https://github.com/nickbrowningdev/WorldHappinessReportDashboard/blob/main/screenshots/screenshot1.PNG)
 
 # WorldHappinessReportDashboard
 ## Introduction
