@@ -1,3 +1,5 @@
+![alt text](https://github.com/nickbrowningdev/WorldHappinessReportDashboard/blob/main/screenshots/screenshot1.PNG?raw=true)
+
 # WorldHappinessReportDashboard
 ## Introduction
 Welcome to the World Happiness Report Dashboard. The The World Happiness Report is a publication of the Sustainable Development Solutions Network, powered by data from the Gallup World Poll. The report is a landmark survey of the state of global happiness that ranks 156 countries by how happy their citizens perceive themselves to be. The data used is from the survey results from 2015 to 2020. The variables for each survey is GDP per capita, life expectancy, social support, freedom to make choices, generosity, and perceptions of corruption.
