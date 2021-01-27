@@ -11,7 +11,50 @@ Also, I am not a data scientist so if my works like that of an amauter I apologi
 ## Link (if working)
 
 ## Required Libraries
-
+astroid==2.4.2
+Brotli==1.0.9
+click==7.1.2
+colorama==0.4.4
+cycler==0.10.0
+dash==1.18.1
+dash-bootstrap-components==0.11.1
+dash-core-components==1.14.1
+dash-html-components==1.1.1
+dash-renderer==1.8.3
+dash-table==4.11.1
+Flask==1.1.2
+Flask-Compress==1.8.0
+future==0.18.2
+gunicorn==20.0.4
+isort==5.7.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==1.0.0
+kiwisolver==1.3.1
+lazy-object-proxy==1.4.3
+MarkupSafe==1.1.1
+matplotlib==3.3.3
+mccabe==0.6.1
+missingno==0.4.2
+numpy==1.19.4
+pandas==1.2.0
+patsy==0.5.1
+Pillow==8.1.0
+plotly==4.14.1
+pylint==2.6.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.5
+retrying==1.3.3
+scikit-learn==0.24.0
+scipy==1.6.0
+seaborn==0.11.1
+six==1.15.0
+statsmodels==0.12.1
+threadpoolctl==2.1.0
+toml==0.10.2
+Werkzeug==1.0.1
+wrapt==1.12.1
 
 ## How to install this program for your device
 
