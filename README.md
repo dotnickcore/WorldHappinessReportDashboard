@@ -11,7 +11,7 @@ Also, I am not a data scientist so if my works like that of an amauter I apologi
 ## Link (most preferred for accessing the website)
 https://worldhappinessreport.herokuapp.com/
 
-Note: The link may take up to 10 - 30 seconds to display the website due to the amount of content inside. Also, refresh once the website has loaded.
+Note: The link may take up to 10 - 30 seconds to display the website due to the amount of content inside. Also, refresh once the website has loaded as a test to see if your able to access the website.
 
 ## Required Libraries
 astroid==2.4.2 <br>
