@@ -8,7 +8,7 @@ This online dashboard takes away the industrious process of users analysing surv
 
 Also, I am not a data scientist so if my works like that of an amauter I apologise. I am a software developer with an interest in data science.
 
-## Link (if working)
+## Link (most preferred for accessing the website)
 https://worldhappinessreport.herokuapp.com/
 
 Note: The link may take up to 10 - 30 seconds to display the website due to the amount of content inside. Also, refresh once the website has loaded.
