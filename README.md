@@ -61,6 +61,3 @@ wrapt==1.12.1
 
 ## How to install this program for your device
 This is only for those or if Tim wants to install it onto their computer. All you need to do is download this repository onto your computer and install the required libraries you see above. The requirements.txt file will help you out with this.
-
-## Where to find me?
-My discord is nikobrowning#8941
